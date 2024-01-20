@@ -1,8 +1,10 @@
-*{
-    font-family:Lato-Black;
-  }
-
 @font-face {
-    font-family:Lato-Black;
-    src: url(Lato-Black.ttf);
+  font-family:Lato-Black;
+  src: url(Lato-Black.ttf);
 }
+* {
+  font-family:Lato-Black;
+}
+body {
+    background: linear-gradient(to right, rgb(250, 18, 18) , yellow);
+} 
