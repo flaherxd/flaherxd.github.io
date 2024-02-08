@@ -23,10 +23,11 @@ body {
 	}
 }
 .alert {
-  padding: 20px;
+  padding: 15px 10px;
+  border-radius: 15px;
   border-style: solid;
   color: rgb(255, 255, 255);
-  margin-bottom: 15px;
+  margin-bottom: 15px
 }
 .closebtn {
   margin-left: 15px;
@@ -47,7 +48,7 @@ a {
 .button {
   border: solid;
   border: 2px solid rgb(255, 255, 255);
-  border-radius: 25px;;
+  border-radius: 25px;
   color: rgb(0, 0, 0);
   padding: 15px 10px;
   text-align: center;
