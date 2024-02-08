@@ -41,3 +41,21 @@ body {
 .closebtn:hover {
   color: rgb(172, 172, 172);
 }
+a{
+  text-decoration: none
+}
+.button {
+  border: solid;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 25px;;
+  color: rgb(0, 0, 0);
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+.button1 {background-color: #0cbbda00;}
