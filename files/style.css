@@ -7,9 +7,9 @@
   font-family:Lato-Black;
 }
 body {
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background: linear-gradient(-35deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
+	animation: gradient 20s ease infinite;
 	height: 100vh;}
   @keyframes gradient {
 	0% {
@@ -23,11 +23,11 @@ body {
 	}
 }
 .alert {
-  padding: 15px 10px;
+  padding: 15px;
   border-radius: 15px;
   border-style: solid;
   color: rgb(255, 255, 255);
-  margin-bottom: 15px
+  margin-bottom: 15px;
 }
 .closebtn {
   margin-left: 15px;
